@@ -157,10 +157,6 @@ class Generate_Graph {
 }
 
 
-
-
-
-
 class Vertex {
     private int vertexId;
     private int elements[];
