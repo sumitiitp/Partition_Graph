@@ -185,7 +185,7 @@ class Vertex {
     public void setVertexId(int vertexId) {
         this.vertexId = vertexId;
     }
-
+    
     public void setElements(int[] elements) {
         this.elements = elements.clone();
     }
